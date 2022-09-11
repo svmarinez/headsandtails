@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-This is a 100hrs project to solve the problmem of managing a side hustle of mine: petsitting. 
+This is a 100hrs project to solve the problem of managing a side hustle of mine: petsitting. 
 As an unorganized person, this project will be beneficial for other people who are equally disorganized and petsit or for folks trying to connect with petsitters regardless of their shoddy organization skills.
 Version 1.0 is meant to be done using Angular but reproducing the project using another Front-end framework is being evaluated.
 ## Development server
